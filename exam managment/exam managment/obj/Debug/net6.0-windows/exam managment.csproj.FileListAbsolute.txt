@@ -1,0 +1,18 @@
+C:\Users\LENOVO\source\repos\exam managment\exam managment\bin\Debug\net6.0-windows\exam managment.exe
+C:\Users\LENOVO\source\repos\exam managment\exam managment\bin\Debug\net6.0-windows\exam managment.deps.json
+C:\Users\LENOVO\source\repos\exam managment\exam managment\bin\Debug\net6.0-windows\exam managment.runtimeconfig.json
+C:\Users\LENOVO\source\repos\exam managment\exam managment\bin\Debug\net6.0-windows\exam managment.dll
+C:\Users\LENOVO\source\repos\exam managment\exam managment\bin\Debug\net6.0-windows\exam managment.pdb
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam_managment.Form1.resources
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.dll
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\refint\exam managment.dll
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.pdb
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam managment.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\ref\exam managment.dll
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam_managment.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\exam managment\exam managment\obj\Debug\net6.0-windows\exam_managment.Teacher.resources
